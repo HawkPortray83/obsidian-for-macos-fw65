@@ -1,4 +1,4 @@
-#  
+#  professional Plugin for Obsidian for macOS - OCR scanning and custom shortcuts is the best Obsidian for macOS plugin, featuring OCR scanning and custom shortcuts. Safe, efficient,
 
 
 
